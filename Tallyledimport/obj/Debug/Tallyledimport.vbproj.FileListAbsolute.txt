@@ -1,0 +1,2 @@
+C:\Users\Selvakumar.R\AppData\Local\Temporary Projects\Tallyledimport\bin\Debug\Tallyledimport.exe.config
+E:\Gdrv_prg\oldd\LINUX-PRG\tallyledimport64\Tallyledimport\Tallyledimport\bin\Debug\Tallyledimport.exe.config
